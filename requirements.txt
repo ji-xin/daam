@@ -9,3 +9,5 @@ numba
 nltk
 inflect
 joblib
+flake8
+pytest
